@@ -1,0 +1,52 @@
+.login-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    max-width: 25%;
+    margin: auto;
+    width: 100%;
+}
+
+.form-field {
+    margin-bottom: 10px;
+    margin-bottom: 10px;
+    position: relative;
+    color: #ffffff;
+}
+
+.form-field label {
+    position: absolute;
+    top: 0;
+    left: 0;
+    pointer-events: none;
+}
+
+.form-field input {
+    border:none;
+    border-bottom:3px solid #ffffff;
+    width: 350px;
+    margin: 20px 0px;
+    outline: none;
+    font-size: 1rem;
+    padding: 5px 0px;  
+    background: transparent;
+    color: #ffffff;
+    font-family: 'Unica One', sans-serif;
+}
+
+.login-btn {
+    margin-bottom: 50px;
+    width: 60%;
+    align-self: center;
+    color: white;
+    border: none;
+    height: 42px;
+    cursor: pointer;
+    border-radius: 10px;
+    font-size: 16px;
+    transition: 0.35s;
+    background: rgb(42, 80, 61);
+    font-family: 'Unica One', sans-serif;
+}
