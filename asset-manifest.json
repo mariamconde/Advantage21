@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/mariamconde/Advantage21/static/css/main.3dcb6db7.css",
+    "main.js": "/mariamconde/Advantage21/static/js/main.759e4a84.js",
+    "static/js/787.28cb0dcd.chunk.js": "/mariamconde/Advantage21/static/js/787.28cb0dcd.chunk.js",
+    "index.html": "/mariamconde/Advantage21/index.html",
+    "main.3dcb6db7.css.map": "/mariamconde/Advantage21/static/css/main.3dcb6db7.css.map",
+    "main.759e4a84.js.map": "/mariamconde/Advantage21/static/js/main.759e4a84.js.map",
+    "787.28cb0dcd.chunk.js.map": "/mariamconde/Advantage21/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3dcb6db7.css",
+    "static/js/main.759e4a84.js"
+  ]
+}
